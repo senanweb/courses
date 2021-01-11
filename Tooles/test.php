@@ -1,2 +1,2 @@
 <?php
-    echo "sinan";
+    echo "omar";

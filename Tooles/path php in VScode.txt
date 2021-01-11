@@ -4,4 +4,4 @@
     "editor.formatOnSave": true,
     "prettier.singleQuote": true
 -----------------
-put this in (Edit in settings.json
+put this in (Edit in settings.json)

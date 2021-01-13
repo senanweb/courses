@@ -1,0 +1,5 @@
+1- open any website
+2- R.click select inspect
+3- select one element
+4- check the properties
+

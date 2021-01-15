@@ -10,5 +10,6 @@
 10- now see the highlight the element
 11- R.click select copy - copy selector
 12- Ctrl + F and past now you can see the properties css for element 
+13- test
 
 

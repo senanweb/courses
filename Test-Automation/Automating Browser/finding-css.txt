@@ -1,0 +1,4 @@
+Here we use Css to found the elements in the web
+1- to start use open browser and R.click select inspect
+2- go to tab Elements and select one with ID
+3-

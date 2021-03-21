@@ -6,6 +6,8 @@ namespace console_var
     {
         static void Main(string[] args)
         {
+
+            //==========================================================
             string name;
             name = Console.ReadLine();
             int age;

@@ -1,0 +1,16 @@
+C:\xampp\htdocs\xampp\courses\c#\core\bin\Debug\net5.0\core.exe
+C:\xampp\htdocs\xampp\courses\c#\core\bin\Debug\net5.0\core.deps.json
+C:\xampp\htdocs\xampp\courses\c#\core\bin\Debug\net5.0\core.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\c#\core\bin\Debug\net5.0\core.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\c#\core\bin\Debug\net5.0\core.dll
+C:\xampp\htdocs\xampp\courses\c#\core\bin\Debug\net5.0\ref\core.dll
+C:\xampp\htdocs\xampp\courses\c#\core\bin\Debug\net5.0\core.pdb
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\core.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\core.dll
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\ref\core.dll
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\core.pdb
+C:\xampp\htdocs\xampp\courses\c#\core\obj\Debug\net5.0\core.genruntimeconfig.cache

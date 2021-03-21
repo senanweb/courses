@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\work\Development\App1\obj\Debug\netcoreapp3.1\App1.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\work\Development\App1\obj\Debug\netcoreapp3.1\App1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\work\Development\App1\obj\Debug\netcoreapp3.1\App1.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\work\Development\App1\obj\Debug\netcoreapp3.1\App1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\work\Development\App1\bin\Debug\netcoreapp3.1\App1.exe
+C:\xampp\htdocs\xampp\work\Development\App1\bin\Debug\netcoreapp3.1\App1.deps.json
+C:\xampp\htdocs\xampp\work\Development\App1\bin\Debug\netcoreapp3.1\App1.runtimeconfig.json
+C:\xampp\htdocs\xampp\work\Development\App1\bin\Debug\netcoreapp3.1\App1.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\work\Development\App1\bin\Debug\netcoreapp3.1\App1.dll
+C:\xampp\htdocs\xampp\work\Development\App1\bin\Debug\netcoreapp3.1\App1.pdb
+C:\xampp\htdocs\xampp\work\Development\App1\obj\Debug\netcoreapp3.1\App1.dll
+C:\xampp\htdocs\xampp\work\Development\App1\obj\Debug\netcoreapp3.1\App1.pdb
+C:\xampp\htdocs\xampp\work\Development\App1\obj\Debug\netcoreapp3.1\App1.genruntimeconfig.cache

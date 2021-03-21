@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\work\Development\console-var\bin\Debug\netcoreapp3.1\console-var.exe
+C:\xampp\htdocs\xampp\work\Development\console-var\bin\Debug\netcoreapp3.1\console-var.deps.json
+C:\xampp\htdocs\xampp\work\Development\console-var\bin\Debug\netcoreapp3.1\console-var.runtimeconfig.json
+C:\xampp\htdocs\xampp\work\Development\console-var\bin\Debug\netcoreapp3.1\console-var.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\work\Development\console-var\bin\Debug\netcoreapp3.1\console-var.dll
+C:\xampp\htdocs\xampp\work\Development\console-var\bin\Debug\netcoreapp3.1\console-var.pdb
+C:\xampp\htdocs\xampp\work\Development\console-var\obj\Debug\netcoreapp3.1\console-var.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\work\Development\console-var\obj\Debug\netcoreapp3.1\console-var.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\work\Development\console-var\obj\Debug\netcoreapp3.1\console-var.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\work\Development\console-var\obj\Debug\netcoreapp3.1\console-var.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\work\Development\console-var\obj\Debug\netcoreapp3.1\console-var.dll
+C:\xampp\htdocs\xampp\work\Development\console-var\obj\Debug\netcoreapp3.1\console-var.pdb
+C:\xampp\htdocs\xampp\work\Development\console-var\obj\Debug\netcoreapp3.1\console-var.genruntimeconfig.cache

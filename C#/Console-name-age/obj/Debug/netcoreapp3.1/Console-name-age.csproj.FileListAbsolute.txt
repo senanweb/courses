@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\obj\Debug\netcoreapp3.1\Console-name-age.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\obj\Debug\netcoreapp3.1\Console-name-age.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\obj\Debug\netcoreapp3.1\Console-name-age.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\obj\Debug\netcoreapp3.1\Console-name-age.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\bin\Debug\netcoreapp3.1\Console-name-age.exe
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\bin\Debug\netcoreapp3.1\Console-name-age.deps.json
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\bin\Debug\netcoreapp3.1\Console-name-age.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\bin\Debug\netcoreapp3.1\Console-name-age.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\bin\Debug\netcoreapp3.1\Console-name-age.dll
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\bin\Debug\netcoreapp3.1\Console-name-age.pdb
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\obj\Debug\netcoreapp3.1\Console-name-age.dll
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\obj\Debug\netcoreapp3.1\Console-name-age.pdb
+C:\xampp\htdocs\xampp\courses\C#\Console-name-age\obj\Debug\netcoreapp3.1\Console-name-age.genruntimeconfig.cache

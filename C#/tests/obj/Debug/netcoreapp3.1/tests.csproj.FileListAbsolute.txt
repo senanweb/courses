@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\tests\bin\Debug\netcoreapp3.1\tests.exe
+C:\xampp\htdocs\xampp\courses\C#\tests\bin\Debug\netcoreapp3.1\tests.deps.json
+C:\xampp\htdocs\xampp\courses\C#\tests\bin\Debug\netcoreapp3.1\tests.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\tests\bin\Debug\netcoreapp3.1\tests.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\tests\bin\Debug\netcoreapp3.1\tests.dll
+C:\xampp\htdocs\xampp\courses\C#\tests\bin\Debug\netcoreapp3.1\tests.pdb
+C:\xampp\htdocs\xampp\courses\C#\tests\obj\Debug\netcoreapp3.1\tests.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\tests\obj\Debug\netcoreapp3.1\tests.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\tests\obj\Debug\netcoreapp3.1\tests.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\tests\obj\Debug\netcoreapp3.1\tests.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\tests\obj\Debug\netcoreapp3.1\tests.dll
+C:\xampp\htdocs\xampp\courses\C#\tests\obj\Debug\netcoreapp3.1\tests.pdb
+C:\xampp\htdocs\xampp\courses\C#\tests\obj\Debug\netcoreapp3.1\tests.genruntimeconfig.cache

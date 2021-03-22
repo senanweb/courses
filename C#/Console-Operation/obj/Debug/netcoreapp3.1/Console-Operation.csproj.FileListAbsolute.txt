@@ -1,0 +1,12 @@
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\obj\Debug\netcoreapp3.1\Console-Operation.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\obj\Debug\netcoreapp3.1\Console-Operation.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\obj\Debug\netcoreapp3.1\Console-Operation.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\bin\Debug\netcoreapp3.1\Console-Operation.exe
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\bin\Debug\netcoreapp3.1\Console-Operation.deps.json
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\bin\Debug\netcoreapp3.1\Console-Operation.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\bin\Debug\netcoreapp3.1\Console-Operation.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\bin\Debug\netcoreapp3.1\Console-Operation.dll
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\bin\Debug\netcoreapp3.1\Console-Operation.pdb
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\obj\Debug\netcoreapp3.1\Console-Operation.dll
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\obj\Debug\netcoreapp3.1\Console-Operation.pdb
+C:\xampp\htdocs\xampp\courses\C#\Console-Operation\obj\Debug\netcoreapp3.1\Console-Operation.genruntimeconfig.cache

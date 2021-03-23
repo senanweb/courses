@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\obj\Debug\netcoreapp3.1\9-Console-array.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\obj\Debug\netcoreapp3.1\9-Console-array.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\obj\Debug\netcoreapp3.1\9-Console-array.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\obj\Debug\netcoreapp3.1\9-Console-array.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\bin\Debug\netcoreapp3.1\9-Console-array.exe
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\bin\Debug\netcoreapp3.1\9-Console-array.deps.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\bin\Debug\netcoreapp3.1\9-Console-array.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\bin\Debug\netcoreapp3.1\9-Console-array.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\bin\Debug\netcoreapp3.1\9-Console-array.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\bin\Debug\netcoreapp3.1\9-Console-array.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\obj\Debug\netcoreapp3.1\9-Console-array.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\obj\Debug\netcoreapp3.1\9-Console-array.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\9-Console-array\obj\Debug\netcoreapp3.1\9-Console-array.genruntimeconfig.cache

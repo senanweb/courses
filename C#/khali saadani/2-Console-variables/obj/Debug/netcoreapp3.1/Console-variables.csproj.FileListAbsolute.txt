@@ -1,0 +1,12 @@
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\obj\Debug\netcoreapp3.1\Console-variables.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\obj\Debug\netcoreapp3.1\Console-variables.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\obj\Debug\netcoreapp3.1\Console-variables.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\bin\Debug\netcoreapp3.1\Console-variables.exe
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\bin\Debug\netcoreapp3.1\Console-variables.deps.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\bin\Debug\netcoreapp3.1\Console-variables.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\bin\Debug\netcoreapp3.1\Console-variables.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\bin\Debug\netcoreapp3.1\Console-variables.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\bin\Debug\netcoreapp3.1\Console-variables.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\obj\Debug\netcoreapp3.1\Console-variables.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\obj\Debug\netcoreapp3.1\Console-variables.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-variables\obj\Debug\netcoreapp3.1\Console-variables.genruntimeconfig.cache

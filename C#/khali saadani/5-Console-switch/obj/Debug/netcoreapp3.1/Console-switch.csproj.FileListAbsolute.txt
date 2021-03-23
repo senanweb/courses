@@ -1,0 +1,12 @@
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\obj\Debug\netcoreapp3.1\Console-switch.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\obj\Debug\netcoreapp3.1\Console-switch.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\obj\Debug\netcoreapp3.1\Console-switch.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\bin\Debug\netcoreapp3.1\Console-switch.exe
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\bin\Debug\netcoreapp3.1\Console-switch.deps.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\bin\Debug\netcoreapp3.1\Console-switch.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\bin\Debug\netcoreapp3.1\Console-switch.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\bin\Debug\netcoreapp3.1\Console-switch.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\bin\Debug\netcoreapp3.1\Console-switch.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\obj\Debug\netcoreapp3.1\Console-switch.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\obj\Debug\netcoreapp3.1\Console-switch.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-switch\obj\Debug\netcoreapp3.1\Console-switch.genruntimeconfig.cache

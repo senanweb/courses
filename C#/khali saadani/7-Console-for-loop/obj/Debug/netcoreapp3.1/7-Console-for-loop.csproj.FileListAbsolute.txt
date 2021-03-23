@@ -1,0 +1,12 @@
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\bin\Debug\netcoreapp3.1\7-Console-for-loop.exe
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\bin\Debug\netcoreapp3.1\7-Console-for-loop.deps.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\bin\Debug\netcoreapp3.1\7-Console-for-loop.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\bin\Debug\netcoreapp3.1\7-Console-for-loop.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\bin\Debug\netcoreapp3.1\7-Console-for-loop.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\bin\Debug\netcoreapp3.1\7-Console-for-loop.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\obj\Debug\netcoreapp3.1\7-Console-for-loop.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\obj\Debug\netcoreapp3.1\7-Console-for-loop.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\obj\Debug\netcoreapp3.1\7-Console-for-loop.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\obj\Debug\netcoreapp3.1\7-Console-for-loop.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\obj\Debug\netcoreapp3.1\7-Console-for-loop.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\7-Console-for-loop\obj\Debug\netcoreapp3.1\7-Console-for-loop.genruntimeconfig.cache

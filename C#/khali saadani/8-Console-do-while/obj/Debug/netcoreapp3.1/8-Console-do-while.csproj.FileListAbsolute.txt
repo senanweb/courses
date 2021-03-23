@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\obj\Debug\netcoreapp3.1\8-Console-do-while.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\obj\Debug\netcoreapp3.1\8-Console-do-while.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\obj\Debug\netcoreapp3.1\8-Console-do-while.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\obj\Debug\netcoreapp3.1\8-Console-do-while.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\bin\Debug\netcoreapp3.1\8-Console-do-while.exe
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\bin\Debug\netcoreapp3.1\8-Console-do-while.deps.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\bin\Debug\netcoreapp3.1\8-Console-do-while.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\bin\Debug\netcoreapp3.1\8-Console-do-while.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\bin\Debug\netcoreapp3.1\8-Console-do-while.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\bin\Debug\netcoreapp3.1\8-Console-do-while.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\obj\Debug\netcoreapp3.1\8-Console-do-while.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\obj\Debug\netcoreapp3.1\8-Console-do-while.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\8-Console-do-while\obj\Debug\netcoreapp3.1\8-Console-do-while.genruntimeconfig.cache

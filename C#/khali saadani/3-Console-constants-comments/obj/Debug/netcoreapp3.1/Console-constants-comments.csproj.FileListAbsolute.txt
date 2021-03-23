@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\bin\Debug\netcoreapp3.1\Console-constants-comments.exe
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\bin\Debug\netcoreapp3.1\Console-constants-comments.deps.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\bin\Debug\netcoreapp3.1\Console-constants-comments.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\bin\Debug\netcoreapp3.1\Console-constants-comments.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\bin\Debug\netcoreapp3.1\Console-constants-comments.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\bin\Debug\netcoreapp3.1\Console-constants-comments.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\obj\Debug\netcoreapp3.1\Console-constants-comments.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\obj\Debug\netcoreapp3.1\Console-constants-comments.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\obj\Debug\netcoreapp3.1\Console-constants-comments.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\obj\Debug\netcoreapp3.1\Console-constants-comments.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\obj\Debug\netcoreapp3.1\Console-constants-comments.dll
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\obj\Debug\netcoreapp3.1\Console-constants-comments.pdb
+C:\xampp\htdocs\xampp\courses\C#\khali saadani\Console-constants-comments\obj\Debug\netcoreapp3.1\Console-constants-comments.genruntimeconfig.cache

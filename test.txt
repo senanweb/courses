@@ -1,3 +1,1 @@
-omar
-new omar 00
-hp 00
+hpnew-zero

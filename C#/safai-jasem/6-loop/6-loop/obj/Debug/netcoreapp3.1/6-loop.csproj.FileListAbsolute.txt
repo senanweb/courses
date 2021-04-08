@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\obj\Debug\netcoreapp3.1\6-loop.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\obj\Debug\netcoreapp3.1\6-loop.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\obj\Debug\netcoreapp3.1\6-loop.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\obj\Debug\netcoreapp3.1\6-loop.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\bin\Debug\netcoreapp3.1\6-loop.exe
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\bin\Debug\netcoreapp3.1\6-loop.deps.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\bin\Debug\netcoreapp3.1\6-loop.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\bin\Debug\netcoreapp3.1\6-loop.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\bin\Debug\netcoreapp3.1\6-loop.dll
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\bin\Debug\netcoreapp3.1\6-loop.pdb
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\obj\Debug\netcoreapp3.1\6-loop.dll
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\obj\Debug\netcoreapp3.1\6-loop.pdb
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\6-loop\6-loop\obj\Debug\netcoreapp3.1\6-loop.genruntimeconfig.cache

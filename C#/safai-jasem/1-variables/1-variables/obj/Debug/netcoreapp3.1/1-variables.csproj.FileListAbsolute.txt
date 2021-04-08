@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\bin\Debug\netcoreapp3.1\1-variables.exe
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\bin\Debug\netcoreapp3.1\1-variables.deps.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\bin\Debug\netcoreapp3.1\1-variables.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\bin\Debug\netcoreapp3.1\1-variables.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\bin\Debug\netcoreapp3.1\1-variables.dll
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\bin\Debug\netcoreapp3.1\1-variables.pdb
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\obj\Debug\netcoreapp3.1\1-variables.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\obj\Debug\netcoreapp3.1\1-variables.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\obj\Debug\netcoreapp3.1\1-variables.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\obj\Debug\netcoreapp3.1\1-variables.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\obj\Debug\netcoreapp3.1\1-variables.dll
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\obj\Debug\netcoreapp3.1\1-variables.pdb
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\1-variables\1-variables\obj\Debug\netcoreapp3.1\1-variables.genruntimeconfig.cache

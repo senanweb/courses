@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\obj\Debug\netcoreapp3.1\7-array.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\obj\Debug\netcoreapp3.1\7-array.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\obj\Debug\netcoreapp3.1\7-array.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\obj\Debug\netcoreapp3.1\7-array.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\bin\Debug\netcoreapp3.1\7-array.exe
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\bin\Debug\netcoreapp3.1\7-array.deps.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\bin\Debug\netcoreapp3.1\7-array.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\bin\Debug\netcoreapp3.1\7-array.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\bin\Debug\netcoreapp3.1\7-array.dll
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\bin\Debug\netcoreapp3.1\7-array.pdb
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\obj\Debug\netcoreapp3.1\7-array.dll
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\obj\Debug\netcoreapp3.1\7-array.pdb
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\7-array\7-array\obj\Debug\netcoreapp3.1\7-array.genruntimeconfig.cache

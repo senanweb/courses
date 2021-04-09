@@ -1,0 +1,13 @@
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\obj\Debug\netcoreapp3.1\8-function.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\obj\Debug\netcoreapp3.1\8-function.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\obj\Debug\netcoreapp3.1\8-function.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\obj\Debug\netcoreapp3.1\8-function.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\bin\Debug\netcoreapp3.1\8-function.exe
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\bin\Debug\netcoreapp3.1\8-function.deps.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\bin\Debug\netcoreapp3.1\8-function.runtimeconfig.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\bin\Debug\netcoreapp3.1\8-function.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\bin\Debug\netcoreapp3.1\8-function.dll
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\bin\Debug\netcoreapp3.1\8-function.pdb
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\obj\Debug\netcoreapp3.1\8-function.dll
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\obj\Debug\netcoreapp3.1\8-function.pdb
+C:\xampp\htdocs\xampp\courses\C#\safai-jasem\8-function\8-function\obj\Debug\netcoreapp3.1\8-function.genruntimeconfig.cache
